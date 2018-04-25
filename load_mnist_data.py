@@ -312,6 +312,4 @@ if __name__ == '__main__':
     print('Number of train images {}'.format(train_images.shape))
     print('Number of test images {}'.format(test_images.shape))
     
-    import idx_format as idx
-    s = idx.save_idx()
     
